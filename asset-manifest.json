@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b0bf459.css",
-    "main.js": "/static/js/main.3cabe86e.js",
-    "static/js/787.f9427d30.chunk.js": "/static/js/787.f9427d30.chunk.js",
-    "static/media/background_mernflixdark.png": "/static/media/background_mernflixdark.49b205c1b7af85da78d1.png",
-    "index.html": "/index.html",
-    "main.0b0bf459.css.map": "/static/css/main.0b0bf459.css.map",
-    "main.3cabe86e.js.map": "/static/js/main.3cabe86e.js.map",
-    "787.f9427d30.chunk.js.map": "/static/js/787.f9427d30.chunk.js.map"
+    "main.css": "/mernflix2022/static/css/main.0b0bf459.css",
+    "main.js": "/mernflix2022/static/js/main.3d0f99ce.js",
+    "static/js/787.f9427d30.chunk.js": "/mernflix2022/static/js/787.f9427d30.chunk.js",
+    "static/media/background_mernflixdark.png": "/mernflix2022/static/media/background_mernflixdark.49b205c1b7af85da78d1.png",
+    "index.html": "/mernflix2022/index.html",
+    "main.0b0bf459.css.map": "/mernflix2022/static/css/main.0b0bf459.css.map",
+    "main.3d0f99ce.js.map": "/mernflix2022/static/js/main.3d0f99ce.js.map",
+    "787.f9427d30.chunk.js.map": "/mernflix2022/static/js/787.f9427d30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b0bf459.css",
-    "static/js/main.3cabe86e.js"
+    "static/js/main.3d0f99ce.js"
   ]
 }
