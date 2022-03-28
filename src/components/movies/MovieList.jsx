@@ -40,7 +40,7 @@ export default function MovieList(){
           <Row>
             {movies.map((movie) => {
                 return ( 
-                  <Col xs ="3" sm="3" xs="4">
+                  <Col sm="3" xs="4">
                     <CardMovie movie={movie} /> 
                   </Col>
                 )
