@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mernflix2022/static/css/main.0b0bf459.css",
-    "main.js": "/mernflix2022/static/js/main.3231e193.js",
+    "main.js": "/mernflix2022/static/js/main.0fcb3f9b.js",
     "static/js/787.f9427d30.chunk.js": "/mernflix2022/static/js/787.f9427d30.chunk.js",
     "static/media/background_mernflixdark.png": "/mernflix2022/static/media/background_mernflixdark.49b205c1b7af85da78d1.png",
     "static/media/logo.svg": "/mernflix2022/static/media/logo.4bdbcf8396881de06a6723a92fed910b.svg",
     "index.html": "/mernflix2022/index.html",
     "main.0b0bf459.css.map": "/mernflix2022/static/css/main.0b0bf459.css.map",
-    "main.3231e193.js.map": "/mernflix2022/static/js/main.3231e193.js.map",
+    "main.0fcb3f9b.js.map": "/mernflix2022/static/js/main.0fcb3f9b.js.map",
     "787.f9427d30.chunk.js.map": "/mernflix2022/static/js/787.f9427d30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b0bf459.css",
-    "static/js/main.3231e193.js"
+    "static/js/main.0fcb3f9b.js"
   ]
 }
