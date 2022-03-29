@@ -1,4 +1,4 @@
-//import logo from './logo.svg';
+import logo from '../logo.svg';
 import '../App.css';
  import './movies/MovieList';
 import React from 'react';
@@ -13,7 +13,7 @@ function App() {
 <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Routes>
-          <Route exact path="/" element={<Login/>} />
+          <Route  path="/" element={<Login/>} />
           <Route path="/home" element={<MovieList/>} />
           <Route path="/home/details/:id" element={<ShowMovie/>} />
           <Route path="/home/bookmarks" element={<MyMovieList/>} />
